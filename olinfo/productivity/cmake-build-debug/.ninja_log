@@ -1,0 +1,17 @@
+# ninja log v5
+0	618	6914958698236756	CMakeFiles/productivity.dir/main.cpp.obj	cc79dea1a49ea985
+621	736	6914958699342175	productivity.exe	c6d087be3f76de24
+4	578	6914959513490144	CMakeFiles/productivity.dir/main.cpp.obj	cc79dea1a49ea985
+579	741	6914959515103959	productivity.exe	c6d087be3f76de24
+6	532	6914962403728541	CMakeFiles/productivity.dir/main.cpp.obj	cc79dea1a49ea985
+533	641	6914962404769009	productivity.exe	c6d087be3f76de24
+4	501	6914964769631000	CMakeFiles/productivity.dir/main.cpp.obj	cc79dea1a49ea985
+501	652	6914964771093306	productivity.exe	c6d087be3f76de24
+4	429	6914965567236288	CMakeFiles/productivity.dir/main.cpp.obj	cc79dea1a49ea985
+452	619	6914965569098703	productivity.exe	c6d087be3f76de24
+5	542	6914966049025081	CMakeFiles/productivity.dir/main.cpp.obj	cc79dea1a49ea985
+543	707	6914966050604205	productivity.exe	c6d087be3f76de24
+4	522	6914966926657735	CMakeFiles/productivity.dir/main.cpp.obj	cc79dea1a49ea985
+523	669	6914966928105367	productivity.exe	c6d087be3f76de24
+6	585	6914970173649940	CMakeFiles/productivity.dir/main.cpp.obj	cc79dea1a49ea985
+585	703	6914970174785595	productivity.exe	c6d087be3f76de24

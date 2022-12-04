@@ -1,0 +1,17 @@
+# ninja log v5
+1	750	6908391574080340	CMakeFiles/vending_machines.dir/main.cpp.obj	783f10be70ee1621
+753	1013	6908391576681491	vending_machines.exe	e6072948311bf61d
+3	452	6908391703452765	CMakeFiles/vending_machines.dir/main.cpp.obj	783f10be70ee1621
+453	622	6908391705105492	vending_machines.exe	e6072948311bf61d
+2	479	6908396337763955	CMakeFiles/vending_machines.dir/main.cpp.obj	783f10be70ee1621
+480	587	6908396338804669	vending_machines.exe	e6072948311bf61d
+2	432	6908401371732440	CMakeFiles/vending_machines.dir/main.cpp.obj	783f10be70ee1621
+432	527	6908401372646382	vending_machines.exe	e6072948311bf61d
+3	557	6908406958592348	CMakeFiles/vending_machines.dir/main.cpp.obj	783f10be70ee1621
+558	684	6908406959818727	vending_machines.exe	e6072948311bf61d
+4	459	6908409362756130	CMakeFiles/vending_machines.dir/main.cpp.obj	783f10be70ee1621
+459	561	6908409363745846	vending_machines.exe	e6072948311bf61d
+4	421	6908420436480458	CMakeFiles/vending_machines.dir/main.cpp.obj	783f10be70ee1621
+422	512	6908420437351060	vending_machines.exe	e6072948311bf61d
+4	433	6908423580406450	CMakeFiles/vending_machines.dir/main.cpp.obj	783f10be70ee1621
+434	524	6908423581287862	vending_machines.exe	e6072948311bf61d

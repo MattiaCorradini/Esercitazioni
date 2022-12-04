@@ -1,0 +1,3 @@
+C:/Users/Studente/Desktop/informatica/olinfo/gelati/cmake-build-debug/CMakeFiles/gelati.dir
+C:/Users/Studente/Desktop/informatica/olinfo/gelati/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Studente/Desktop/informatica/olinfo/gelati/cmake-build-debug/CMakeFiles/rebuild_cache.dir

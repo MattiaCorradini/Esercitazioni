@@ -1,0 +1,3 @@
+C:/Users/Studente/Desktop/informatica/olinfo/carte/cmake-build-debug/CMakeFiles/carte.dir
+C:/Users/Studente/Desktop/informatica/olinfo/carte/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Studente/Desktop/informatica/olinfo/carte/cmake-build-debug/CMakeFiles/rebuild_cache.dir

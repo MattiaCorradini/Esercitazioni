@@ -1,0 +1,19 @@
+# ninja log v5
+0	593	6907257841365786	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+610	772	6907257843108214	flappy_bird.exe	c915d1f7b57a4491
+3	644	6907258036858498	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+645	776	6907258038134608	flappy_bird.exe	c915d1f7b57a4491
+4	529	6907261216115716	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+530	676	6907261217520629	flappy_bird.exe	c915d1f7b57a4491
+4	473	6907261343016581	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+474	656	6907261344774211	flappy_bird.exe	c915d1f7b57a4491
+3	673	6907262804616402	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+703	918	6907262806979379	flappy_bird.exe	c915d1f7b57a4491
+5	541	6907264231487398	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+542	690	6907264232953412	flappy_bird.exe	c915d1f7b57a4491
+3	557	6907269940823366	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+559	718	6907269942342356	flappy_bird.exe	c915d1f7b57a4491
+3	754	6907282276615640	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+755	945	6907282278410155	flappy_bird.exe	c915d1f7b57a4491
+4	566	6907282705883580	CMakeFiles/flappy_bird.dir/main.cpp.obj	fa70619c8f59dcbc
+567	739	6907282707554716	flappy_bird.exe	c915d1f7b57a4491

@@ -1,0 +1,3 @@
+C:/Users/Studente/Desktop/informatica/olinfo/guess_the_sign/cmake-build-debug/CMakeFiles/guess_the_sign.dir
+C:/Users/Studente/Desktop/informatica/olinfo/guess_the_sign/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Studente/Desktop/informatica/olinfo/guess_the_sign/cmake-build-debug/CMakeFiles/rebuild_cache.dir

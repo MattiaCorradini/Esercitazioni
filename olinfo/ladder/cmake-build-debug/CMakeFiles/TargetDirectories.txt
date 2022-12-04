@@ -1,0 +1,3 @@
+C:/Users/Studente/Desktop/informatica/olinfo/ladder/cmake-build-debug/CMakeFiles/ladder.dir
+C:/Users/Studente/Desktop/informatica/olinfo/ladder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Studente/Desktop/informatica/olinfo/ladder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Studente/Desktop/informatica/olinfo/vending_machines/cmake-build-debug/CMakeFiles/vending_machines.dir
+C:/Users/Studente/Desktop/informatica/olinfo/vending_machines/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Studente/Desktop/informatica/olinfo/vending_machines/cmake-build-debug/CMakeFiles/rebuild_cache.dir
