@@ -7,12 +7,11 @@ int main() {
     int n = 0;
     ifstream in("input.txt");
     string s;
-
     while (getline(in, s)){
         string c;
-        for (int i = 0; i < s.size(); ++i) {
-            if (isdigit(s.at(i))){
-                c += s.at(i);
+        for (char i : s) {
+            if (isdigit(i)){
+                c += i;
                 break;
             }
         }
